@@ -1,7 +1,7 @@
 # melipilla-iot-apr-9-Medición-de-humedad-de-suelo-y-riego-automatico
 Un sensor de humedad de suelo mide en tiempo real. Si la humedad cae por debajo de un umbral (según cultivo), se activa una electroválvula o bomba para regar hasta alcanzar el rango deseado, con Raspberry Pi para medir humedad de suelo, automatizar el riego y que además adapte la estrategia según el cultivo (umbral, método y ventana horaria)
 
-¡Excelente idea! Montar riego “según necesidad” con sensores de humedad te ahorra agua, mejora el vigor del cultivo y evita estrés hídrico. Te dejo un plan claro para implementarlo de forma profesional, con opciones según presupuesto.
+
 
 # 1) Qué vas a medir y por qué
 
